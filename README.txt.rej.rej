@@ -1,0 +1,6 @@
+diff a/README.txt.rej b/README.txt.rej	(rejected hunks)
+@@ -0,0 +1,4 @@
++diff a/README.txt b/README.txt	(rejected hunks)
++@@ -0,0 +1 @@
+++README_TEST
++\ No newline at end of file
