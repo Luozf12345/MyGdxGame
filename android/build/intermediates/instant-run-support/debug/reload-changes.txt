@@ -1,0 +1,2 @@
+CHANGED,D:\Android\WorkSpace\MyGame\android\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\mygdx\game\android\MyGdxGame$override.class
+CHANGED,D:\Android\WorkSpace\MyGame\android\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
